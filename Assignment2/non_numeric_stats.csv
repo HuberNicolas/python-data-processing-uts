@@ -1,100 +1,12 @@
-Metric,Count of Occurrences,Missing Values,Unique Values
-Alcohol,"Alcohol
-cl5    759
-cl6    505
-cl4    287
-cl3    198
-cl2     68
-cl1     34
-cl0     34
-Name: count, dtype: int64",0,7
-Benzos,"Benzos
-cl0    1000
-cl3     236
-cl2     234
-cl4     120
-cl1     116
-cl6      95
-cl5      84
-Name: count, dtype: int64",0,7
-Cannabis,"Cannabis
-cl6    463
-cl0    413
-cl2    266
-cl3    211
-cl1    207
-cl5    185
-cl4    140
-Name: count, dtype: int64",0,7
-Coke,"Coke
-cl0    1038
-cl2     270
-cl3     258
-cl1     160
-cl4      99
-cl5      41
-cl6      19
-Name: count, dtype: int64",0,7
-Crack,"Crack
-cl0    1627
-cl2     112
-cl1      67
-cl3      59
-cl5       9
-cl4       9
-cl6       2
-Name: count, dtype: int64",0,7
-Ecstasy,"Ecstasy
-cl0    1021
-cl3     277
-cl2     234
-cl4     156
-cl1     113
-cl5      63
-cl6      21
-Name: count, dtype: int64",0,7
-Heroin,"Heroin
-cl0    1605
-cl2      94
-cl1      68
-cl3      65
-cl4      24
-cl5      16
-cl6      13
-Name: count, dtype: int64",0,7
-LSD,"LSD
-cl0    1069
-cl1     259
-cl3     214
-cl2     177
-cl4      97
-cl5      56
-cl6      13
-Name: count, dtype: int64",0,7
-Meth,"Meth
-cl0    1429
-cl3     149
-cl2      97
-cl6      73
-cl4      50
-cl5      48
-cl1      39
-Name: count, dtype: int64",0,7
-Mushrooms,"Mushrooms
-cl0    982
-cl3    275
-cl2    260
-cl1    209
-cl4    115
-cl5     40
-cl6      4
-Name: count, dtype: int64",0,7
-Nicotine,"Nicotine
-cl6    610
-cl0    428
-cl2    204
-cl1    193
-cl3    185
-cl5    157
-cl4    108
-Name: count, dtype: int64",0,7
+Column,cl0,cl1,cl2,cl3,cl4,cl5,cl6
+Alcohol,34,34,68,198,287,759,505
+Benzos,1000,116,234,236,120,84,95
+Cannabis,413,207,266,211,140,185,463
+Coke,1038,160,270,258,99,41,19
+Crack,1627,67,112,59,9,9,2
+Ecstasy,1021,113,234,277,156,63,21
+Heroin,1605,68,94,65,24,16,13
+LSD,1069,259,177,214,97,56,13
+Meth,1429,39,97,149,50,48,73
+Mushrooms,982,209,260,275,115,40,4
+Nicotine,428,193,204,185,108,157,610
